@@ -1,6 +1,7 @@
 # Assignment 14: Use a CSS and JavaScript Framework to Add Interactivity to a Website
 
---------BOOTSTRAP COMPONENTS USED------------
+---------------------------------------------
+BOOTSTRAP COMPONENTS USED:
 1. Modal Button and Model - Used to implement a "fun fact" pop up!
 2. Cards - Used to showcase and offer more details and interactivity to my Hobbies, Interests, and Career Goals!
 
