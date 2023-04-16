@@ -1,0 +1,15 @@
+.about_header, .hobbies_header, .experience_header {
+    color: rgb(13, 82, 91);
+    padding-left: 30px;
+    margin-top: 30px;
+}
+
+.about_description {
+    padding: 30px;
+}
+
+.footer {
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+}
